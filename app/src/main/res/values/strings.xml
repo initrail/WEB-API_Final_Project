@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Guess Where</string>
+    <string name="main_url">https://guesswhereproject.herokuapp.com/api/</string>
+</resources>
